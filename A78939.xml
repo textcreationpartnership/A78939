@@ -1,0 +1,256 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kings Majesties most gratious message in foure letters: one of which His Majesty received from London, and three written by His Majesties own hands : the first to Col: Whaley, the second to the Lord Mountague, and the third a declaration to all His Maiesties subjects of both kingdomes; concerning his going away, with His Majesties desires to the Parliament, the army, and the kingdomes. With a perfect narrative of the manner of his Majesties going from Hampton Court, and the severall circumstances both before &amp; after. His Majesty desires that his declaratory message may bee communicated to the Lords and Commons in the Parliament of England, at Westminster, &amp; the commissioners of the Parliament of Scotland, and to all His Majesties subjects of what degree or calling whatsoever. Subscribed, Charles Rex. Novemb. 13. 1647. Imprimatur Gilb. Mabbott.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78939</idno>
+            <idno type="STC">Wing C2510</idno>
+            <idno type="STC">Thomason E414_10</idno>
+            <idno type="STC">ESTC R204504</idno>
+            <idno type="EEBO-CITATION">99863993</idno>
+            <idno type="PROQUEST">99863993</idno>
+            <idno type="VID">116211</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78939)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116211)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 65:E414[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kings Majesties most gratious message in foure letters: one of which His Majesty received from London, and three written by His Majesties own hands : the first to Col: Whaley, the second to the Lord Mountague, and the third a declaration to all His Maiesties subjects of both kingdomes; concerning his going away, with His Majesties desires to the Parliament, the army, and the kingdomes. With a perfect narrative of the manner of his Majesties going from Hampton Court, and the severall circumstances both before &amp; after. His Majesty desires that his declaratory message may bee communicated to the Lords and Commons in the Parliament of England, at Westminster, &amp; the commissioners of the Parliament of Scotland, and to all His Majesties subjects of what degree or calling whatsoever. Subscribed, Charles Rex. Novemb. 13. 1647. Imprimatur Gilb. Mabbott.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>E. R.</author>
+                  <author>Whalley, Edward, d. 1675?</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Ibbitson in Smithfield,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With portrait of Charles I on frontispiece.</note>
+                  <note>A prefatory letter is signed: Edward Helaw, which is a pseudonym for Edward Whalley; the letter from London is signed: E.R.</note>
+                  <note>Dated at end: the 11. of Novem. 1647.</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Annotation on Thomason copy: "Nou. 13. 1647".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Captivity, 1647-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116211:1" rendition="simple:additions"/>
+            <p>THE KINGS MAJESTIES Moſt Gratious MESSAGE In Foure LETTERS:</p>
+            <p>One of which His Majeſty received from <hi>London,</hi> and <hi>three written by His Majeſties own Hands: The firſt to</hi> Col: <hi>Whaley,</hi> the ſecond to the Lord <hi>Mountague,</hi> and the third <hi>A Declaration to all His Majeſties Subjects of both Kingdomes; Concerning his going away, with His Majeſties deſires to the Parliament, the Army, and the Kingdomes.</hi>
+            </p>
+            <p>With a perfect Narrative of the manner of his Majeſties <hi>go<g ref="char:EOLhyphen"/>ing from Hampton Court, and the ſeverall circumſtances both before &amp; after.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>HIs Majeſty deſires that his Declaratory Meſſage may bee communicated to the Lords and Commons in the Parliament of <hi>England,</hi> at <hi>Weſtminſter,</hi> &amp; the Commiſſioners of the Parliament of <hi>Scotland,</hi> and to all His Majeſties Subjects of what degree or calling whatſoever.</p>
+                        <closer>
+                           <dateline>
+                              <date>Novemb. 13. 1647,</date>
+                           </dateline> 
+                           <signed>Subſcribed, Charles <hi>REX.</hi>
+                           </signed>
+                        </closer>
+                        <postscript>
+                           <p>Imprimatur</p>
+                           <closer>
+                              <signed>Gilb. Mabbort.</signed>
+                           </closer>
+                        </postscript>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <figure>
+               <head>C R</head>
+               <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+               <figDesc>royal blazon surmounted by a crown and flanked by the English lion and Tudor rose on one side and the Scottish unicorn and thistle on the other</figDesc>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed by <hi>Robert Ibbitſon</hi> in <hi>Smithfield,</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="illustration">
+            <pb facs="tcp:116211:2"/>
+            <p>
+               <figure>
+                  <figDesc>depiction of King Charles I of England</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="letter">
+            <pb n="1" facs="tcp:116211:2"/>
+            <head>A Letter from <hi>Hampton-Court,</hi> of the manner of His Majeſties departure.</head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>YEſterday the Scotch Commiſſioners were with his Ma<g ref="char:EOLhyphen"/>jeſty, and Mr. <hi>Cheeſly</hi> (newly come from <hi>Scotland</hi> with them) &amp; had audience Sir <hi>Edward Ford,</hi> Sir <hi>John Bartlet,</hi> Mr. <hi>John Aſhburnham,</hi> and Mr. <hi>Denham,</hi> had lately paſſes to goe beyond the Seas: This day his Majeſty was not ſo pleaſant at dinner as uſually, and ſpent moſt part of this day in writing in the Bed-chamber privately with himſelf only; About four a clocke at night, his Majeſty called for lights, Mr. <hi>Maul</hi> (then newly come from <hi>London</hi> carried in candles, a while after his Majeſty called for ſnuffers: Some deſired to ſpeake with his Majeſty, but his Majeſty refuſed, deſiring to be pri<g ref="char:EOLhyphen"/>vate; one of the Commiſſioners knocked againe, his Majeſty ſaid hee was buſie, and deſired to be private, and that he would nor ſup that night: After ſupper one of them knoc<g ref="char:EOLhyphen"/>king, his Majeſty anſwered not; then the Commiſſioners went in, and Collonel <hi>Whalley,</hi> and found his Majeſties cloake there and foure letters lying on the table (the copies whereof I have ſent your Lordſhip here incloſed) his Ma<g ref="char:EOLhyphen"/>jeſty being gone in his ſhoots and ſtockings, it was ſuppoſed he might be in the garden, downe the backe ſcares; but it ſeems his Majeſty was gone through the garden and parke, and ſo away, ſome thinke for <hi>Scotland,</hi> others for <hi>London,</hi> ſome for <hi>Jerſey:</hi> others (which is more probable) not farre from hence: ſome Gentlemen paſſed this night over <hi>King<g ref="char:EOLhyphen"/>ſton</hi> bridge, ſuppoſed to be his Majeſty, with Sir <hi>Edward Ford,</hi> Sir <hi>John Bartles,</hi> Mr. <hi>Aſhburnham,</hi> and Mr. <hi>Denham.</hi> Meſſengers are ſent out, and ports to be ſtopped. My Lord, in haſte I conclude my ſelfe,</p>
+            <closer>
+               <signed>Your Lordſhips humble ſervant, <hi>Edward Helaw.</hi>
+               </signed>
+               <dateline>Hampton-Court <date>Nov. 11. 1147.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="2" facs="tcp:116211:3"/>
+            <head>A Letter which His Majeſty recei<g ref="char:EOLhyphen"/>ved from <hi>London,</hi> left upon the table in his Majeſties Chamber.</head>
+            <opener>
+               <salute>May it pleaſe your Majeſty,</salute>
+            </opener>
+            <p>IN diſcharge of my duty, I cannot omit to acquaint you that my brother was at a meeting laſt night with eight or nine Ad<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>utators, who in debate of the obſtacle which did moſt hinder the ſpeedy effecting of their deſignes, did conclude, it was your Majeſty, and ſo long as your Majeſty doth live, you would be ſo, and therefore reſolved for the good of the Kingdome to take your life away; and that to that account they were aſſured that Mr. <hi>Del</hi> and Mr. <hi>Peters</hi> (two of their creatures) would willingly beare them com<g ref="char:EOLhyphen"/>pany, for they had often ſaid to theſe Adjutators, your Majeſty is but a dead dog: My prayers are for your Majeſties ſafety, but do much fear, it cannot be whilſt you are in thoſe hands.</p>
+            <p n="1">I. wiſh with my ſoul your Majeſty were at my houſe in <hi>Broadſtreet,</hi> where I am confident I could keep you private till this ſtorme were over, but beg you Majeſties pardon, and ſhall not preſume to offer it as advice; It is my conſtant zeale to your ſervice, who am</p>
+            <closer>
+               <dateline>
+                  <date>9. Novem. 1647.</date>
+               </dateline> 
+               <signed>Your Majeſties dutifull ſubject <hi>E. R.</hi> To your ſacred Majeſty.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>His Majeſties Letter to Collonel <hi>Whaley,</hi> Com<g ref="char:EOLhyphen"/>mander in chiefe of the Forces at <hi>Hampton-Court</hi> for His Majesties guard, left upon the table in his Majeſties Chamber.</head>
+            <opener>
+               <salute>Collonel <hi>Whaley,</hi>
+               </salute>
+            </opener>
+            <p>I Have been ſo civilly uſed by you, and Major <hi>Huntington,</hi> that I cannot but by this parting farewell, acknowledge it
+<pb n="3" facs="tcp:116211:3"/>under my hand, as alſo to deſire the continuance of your courteſie, by your protecting of my houſhold and moveables of all ſorts, which I leave behinde me in this houſe, that they be neither ſpoyled nor imbezelled; only there are three Pi<g ref="char:EOLhyphen"/>ctures here which are not mine, that I deſire you to reſtore, to wit, my wives Picture in blue, litting in a chaire you muſt ſend to Mrs. <hi>Kirk;</hi> my eldeſt daughters picture copied by <hi>Belcam,</hi> to the Counteſſe of <hi>Angleſey,</hi> and my Lord <hi>Stanops</hi> picture to <hi>Cary Rawley;</hi> there is a fourth which I had almoſt forgot, it is the originall of my eldeſt daughter (it hangs in this chamber over the board next to the chimney) which you muſt ſend to my Lady <hi>Obigney.</hi> So being conſident that you wiſh my preſervation and reſtitution, I reſt</p>
+            <closer>
+               <dateline>Hampton Court <date>the 11. of <hi>Novem.</hi> 1647.</date>
+               </dateline> 
+               <signed>Your Friend, <hi>CHARLES REX.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <p>I aſſure you that it was not the Letter you ſhewed me to day, that made me take this reſolution, nor any advertiſements of that kinde: but I confeſſe that I am loath to be made a cloſe priſoner under pretence of ſecuring my life; I had almoſt forgot to deſire you to ſend the blacke grewe Bitch to the Duke of <hi>Richmond.</hi>
+               </p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <head>His Majeſties Letter to the Lord <hi>Mountague,</hi> one of the Commiſſioners from the Parliament at<g ref="char:EOLhyphen"/>tending his Majeſty at <hi>Hampton-Court,</hi> left in his Majeſties Bed-chamber on the table.</head>
+            <opener>
+               <salute>Mountague,</salute>
+            </opener>
+            <p>FIrſt, I doe hereby give you and the reſt of your fellowes thanks for the civillities and good converſation that I have had from you. Next I command you to ſend this my Meſſage (which you will finde upon this table) to the two Houſes of Parliament, and likewiſe to give a copy of it to Col. <hi>Whaley,</hi> to be ſent to the Generall; likewiſe I deſie you to ſend all my ſaddle horſes to my ſon the Duke of <hi>Yorke.</hi>
+            </p>
+            <p>As for what concerns the reſolution that I have taken, my declaratory Meſſage ſayes ſo innch, that I refer you to it, and ſo reſt,</p>
+            <closer>
+               <dateline>Hampton-Court <date>the 11. of <hi>Novem.</hi> 1647.</date>
+               </dateline> 
+               <signed>Your aſſured Friend, <hi>CHARLES REX.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="royal_declaration">
+            <pb n="4" facs="tcp:116211:4"/>
+            <head>
+               <hi>A</hi> Declaration by the Kings Majeſty, left upon the Table in his Majeſties Bed-chamber.</head>
+            <p>LIberty being that which in all times hath been, but eſpecially now, is the common Theame, and deſire of all men. Common reaſon ſhewes that Kings leſſe then any ſhould indure captivity, and yet I call God and the world to witneſſe, with what pati<g ref="char:EOLhyphen"/>ence I have indured a tedious reſtraint, which ſo long as I had any hopes that this ſort of my ſufferings might conduce to the Peace of my Kingdome, or the hindering of more effuſion of blood; I did willingly undergoe; But now finding by too certaine proofes, that this my continued patience would not onely turne to my perſonall ruine, but likewiſe be of much more prejudice than furtherance to the publique good:</p>
+            <p>I thought I was bound, as well by naturall as politicall obligations to ſeek my ſafety; by retiring my ſelfe for ſome time from the publique view, both of my friends and ene<g ref="char:EOLhyphen"/>mies. And I appeale to all indifferent men,
+<pb n="5" facs="tcp:116211:4"/>to judge if I have not juſt cauſe to free my ſelfe from the hands of thoſe who change their principles with their condition; and who are not aſhamed openly to intend the deſtruction of the Nobility, by taking away their negative voice, and with whom the levellers doctrin is rather countenanced then puniſhed.</p>
+            <p>And as for their intentions to my perſon, their changing and putting more ſtrict guards upo<g ref="char:cmbAbbrStroke">̄</g> me, with the diſcharging moſt of all thoſe ſervants of mine, who formerly they willingly admitted to wait upon me, doth ſufficiently declare: Nor would I have this my retirement miſ-interpreted, for I ſhall earneſtly and inceſſantly endeavour the ſet<g ref="char:EOLhyphen"/>ling of a ſafe and well grounded peace, where ever I am, or ſhall be; And that (as much as may be) without the effuſion of more Chriſtian blood, for which how many times have I deſired, preſt to be heard, and yet no eare given to me.</p>
+            <p>And can any reaſonable men think that (according to the ordi<g ref="char:EOLhyphen"/>nary courſe of affaires) there can be a ſettled peace without it; or that God will bleſſe thoſe who refuſe to heare their owne King, ſurely not?</p>
+            <p>Nay I muſt further adde, That (beſides what concerns my ſelfe) unleſſe all other cheife intereſts have not only an hearing,
+<pb n="6" facs="tcp:116211:5"/>but likewiſe juſt ſatisfaction given unto them, (to wit the <hi>Preſ<g ref="char:EOLhyphen"/>byterians, Independents; Army,</hi> thoſe who have adhered to mee, even the <hi>Scots</hi>) I ſay there cannot (I ſpeake not of miracles, it being of my opinion, a ſinfull preſumption, in ſuch caſes to expect or truſt to them) be a ſafe or laſting peace.</p>
+            <p>Now as I cannot deny but that my perſonall ſecurity is the urgent cauſe of this my retirement, ſo I take God to witneſſe that the publique peace is no leſſe before mine eyes; And I can finde no better way to expreſſe this my profeſſion (I know not what a wiſer man may do) then by deſiring, and urging that all cheif intereſts may be heard, to the end each may have juſt ſatis<g ref="char:EOLhyphen"/>faction, as for example, the Army: for the reſt (though neceſſary yet I ſuppoſe are not difficult to content) ought (in my judge<g ref="char:EOLhyphen"/>ment) to enjoy the liberty of their Conſciences, have an Act of Oblivion or Indempnity (which ſhould extend to all the reſt of my Subjects;) And that all their Arreares ſhould be ſpeedi<g ref="char:EOLhyphen"/>ly and duly payed, which I will undertake to doe, ſo I may bee heard, And that I be not hindered from rſing ſuch lawfull and honeſt meanes, as I ſhall chooſe.</p>
+            <p>To conclude, let mee bee heard with freedome, honour, and ſafety, and I ſhall (inſtantly) break through this cloud of retire<g ref="char:EOLhyphen"/>ment, and ſhew my ſelfe really to be <hi>Pater Patriae.</hi>
+            </p>
+            <p>For the Speaker of the Lords, <hi>pro<g ref="char:EOLhyphen"/>tempore,</hi> to be communicated to the Lords and Commons in the Parlia<g ref="char:EOLhyphen"/>ment of <hi>England</hi> at <hi>VVeſtminſter,</hi> and the Commiſsioners of the Parlia<g ref="char:EOLhyphen"/>ment of <hi>Scotland:</hi> And to all my other Subjects of what degree or cal<g ref="char:EOLhyphen"/>ling whatſoever.</p>
+            <closer>
+               <dateline>Dated at <hi>Hampton Court,</hi> 
+                  <date>the 11. of <hi>Novem.</hi> 1647.</date>
+               </dateline> 
+               <signed>Charles Rex.</signed>
+            </closer>
+         </div>
+         <trailer>Finis</trailer>
+      </body>
+   </text>
+</TEI>
